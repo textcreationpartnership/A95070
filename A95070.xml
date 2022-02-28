@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true magistrate, or The magistrates duty, and power in matters of religion, or in things meerly relating to conscience. By a well wisher to a publick good.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95070</idno>
+            <idno type="STC">Wing T2758</idno>
+            <idno type="STC">Thomason E1000_1</idno>
+            <idno type="STC">ESTC R207834</idno>
+            <idno type="EEBO-CITATION">99866862</idno>
+            <idno type="PROQUEST">99866862</idno>
+            <idno type="VID">119150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119150)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E1000[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true magistrate, or The magistrates duty, and power in matters of religion, or in things meerly relating to conscience. By a well wisher to a publick good.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Brewster at the Three Bibles at the west end of Paul's,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119150:1" rendition="simple:additions"/>
+            <p>THE True MAGISTRATE, OR THE MAGISTRATES DUTY, AND POWER In matters of RELIGION, OR In things meerly relating to CONSCIENCE.</p>
+            <p>By a well wiſher to a Publick Good</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Brewſter</hi> at the three Bibles at the Weſt end of <hi>Paul</hi>'s, 1659.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:119150:2"/>
+            <pb facs="tcp:119150:2"/>
+            <head>The PREFACE.</head>
+            <p>THe Author in duty to his Country and love to a publike Good, is induced to publiſh this ſhort Diſcourſe concerning true Magiſtracy; but the chief reaſon that hath prevailed with him, is to vindicate that truly ſober and Chriſtian Principle, <hi>(of liberty of conſcience)</hi> from thoſe falſe and ſcandalous aſperſions, wherewith evil-minded men (of corrupt Intereſts and Prin<g ref="char:EOLhyphen"/>ciples) endeavour to bring the ſame into diſ<g ref="char:EOLhyphen"/>grace and obloquy.</p>
+            <p>Here firſt is laid open a great miſtake moſt men, either out of ignorance, or a blind peeviſh zeal, make themſelves guilty of, As if by allowing Liberty of Conſcience, a flood-gate were ſet wide open to let in all manner of errours and hereſies, when on the contrary a way is made for truth to come forth in its proper power and evi<g ref="char:EOLhyphen"/>dence; the only means to convince and confute all oppoſition.</p>
+            <pb facs="tcp:119150:3"/>
+            <p>Secondly, warning is given to all Chriſtian Magiſtrates, not to involve themſelves with any faction or corrupt intereſt, that under ſpecious pretences may ſwallow up the reſt when in power, but to cheriſh and countenance the life of godli<g ref="char:EOLhyphen"/>neſs in all forms that are not contrary to the being of Chriſtianity, and deſtructive to the civil ſo<g ref="char:EOLhyphen"/>ciety under their protection.</p>
+            <p>And laſtly does ſhew the neceſſity of allowing this Liberty of Conſcience, according to the Apo<g ref="char:EOLhyphen"/>ſtles Rule, <hi>Let every man be fully perſwaded in his own mind,</hi> ſince without it we muſt expect biting &amp; devouring one another, &amp; conſequently a ſpirit of wrath, to tear in pieces all thoſe that differ from our ſelves, which will prove an Inlet of the higheſt perſecution and tyranny, then which nothing can be more contrary to a well or<g ref="char:EOLhyphen"/>dered Chriſtian Commonwealth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:119150:3"/>
+            <head>Of the Magiſtrates Duty, <hi>&amp;c.</hi>
+            </head>
+            <p>THat the Magiſtrates power is limited by God and Man, and the exerciſe thereof, more for the Good of the whole then any part, or for himſelf, is agreeable to the light of Nature, Reaſon, and ſound religion, being ſo evident in it ſelf, that it ſtands in no need of any proof: And were there no more to evince the unreaſonableneſs of ſuch a Power, this would be ſufficient, that by it man would run into his own de<g ref="char:EOLhyphen"/>ſtruction; for having no bounds ſet to his ambition and unra<g ref="char:EOLhyphen"/>ly luſts, What can hinder the raging wayes of this ſea, ſuddenly to overflow and drown the whole man?</p>
+            <p>God therefore and Man, have ſet their limits to Magiſtrater, which they ought not to tranſgreſs, and by tranſgreſſing they make themſelves guilty, and ſo accountable to both. That God hath done it, appears by the creation of Man at firſt, when he gave him the ſole rule and dominion over all the Earth, or all the viſible parts of the world he confined him not to eat of the forbidden fruit; <hi>for the day thou eateſt thereof, thou ſhalt ſurely die:</hi> and by woful experience we find the conſequents of this tranſgreſſion, or aſpiring to an unlimited power to be in<g ref="char:EOLhyphen"/>dependent from his Maker.</p>
+            <p>That man hath done no leſs, is manifeſt in all the well regu<g ref="char:EOLhyphen"/>lated Governments that have been extant in the world, where the governed (in the primary Inſtitution) have always had this care, by oaths and other ties, to limit their Governors, which ſhews plainly, that in themſelves, they ſtill reſerved a Power, to call their Governors to account, for male adminiſtration con<g ref="char:EOLhyphen"/>trary to their Oaths and Promiſe. And though <hi>(de facte)</hi> the governed have not always done it for want of power, but that <hi>(de jure)</hi> they have power to do it, is plain by their always put<g ref="char:EOLhyphen"/>ting the ſame in execution when God gave them opportunity.</p>
+            <p>But that which we have to ſpeak of in this ſhort diſcourſe, chiefly relates to the Magiſtrates power, in things ſpiritual, or meerly relating to conſcience. And therein we ſhall firſt con<g ref="char:EOLhyphen"/>ſider
+<pb n="6" facs="tcp:119150:4"/>what duty or commerce the Magiſtrate is to have over Gods people, or all the profeſſors under his charge; next what power God and Man have given him in things meerly relating to conſcience.</p>
+            <p>Kings or Magiſtrates in Scripture, are called <hi>Nurſing Fathers, and nurſing Mothers,</hi> which place moſt miſerably hath ſuffered wrack, by the ſtrange interpretations, ſome (for their own ends and advantage,) have put upon the ſame, thereby attaining a power over the very Church of God, which Chriſt hath reſer<g ref="char:EOLhyphen"/>ved to himſelf, and not given to any Mortal. But the more genuine conſtruction ſeems to be taken from the words them<g ref="char:EOLhyphen"/>ſelves, and the nature of what they hold forth: For <hi>Nurſing</hi> implies a tenderneſs and care mothers actually have over their little Infants, which are not able to provide for themſelves; juſt ſo ought the Magiſtrates care to be over the people of God under their protection, who are ſent into the world as ſheep among wolves, and are expoſed to the utmoſt rage and malice the world can put forth againſt them; For (as Chriſt ſaith,) <hi>if they were of the world; the world would love its own; but becauſe they are not of the world, but choſen out of the world, therefore the world hates them.</hi>
+            </p>
+            <p>The Magiſtrates duty then in the firſt place, is to give coun<g ref="char:EOLhyphen"/>tenance and protection to all the people of God under their ſeveral forms or appearances, that ſo they may live a quiet and godly life under them, thereby engaging the hearts and prayers of all the Saints to be mindful of their Governors, in their acceſs to the throne of grace; which doubtleſs, is no ſmall thing, (if rightly conſidered) to engage God himſelf to be on their ſide. And <hi>if God be with us, what need we fear who is a<g ref="char:EOLhyphen"/>gainſt us?</hi> Beſides, it anſwers the true end of Magiſtracy, which is to puniſh evil doers, and to give encouragement to thoſe that doe well. Now this is moſt certain, (by <hi>evil doers</hi>) muſt be meant thoſe that make no conſcience of their ways, but run out into all manner of exceſs, committing ſin with greedineſſe: And conſequently (the <hi>well doers</hi>) are ſuch, as follow the light of their conſciences in what they have received, and practiſe the ſame, according to their beſt skill and knowledge, ſo that an erronious perſon, cannot properly be called an evil Doer, unleſs his errour lead him into evil practice.</p>
+            <p>Secondly, The Magiſtrate is to be careful, not to ſide, or
+<pb n="7" facs="tcp:119150:4"/>engage with any party, or opinion, whereby the ballane is caſt to favour one judgement more then anothers, but to conſider the power and life of godlineſs in all, putting a great price and value upon the ſame; Neither is this to hinder him from the exerciſe of his own private judgement, wherein he may adhere to one, more then another; onely in relation to publick, he is not to prefer them for judgement ſake, but (as they may be ſerviceable) he is to advance and make uſe of all in whom he finds the power of godlineſs and ſutable ubility to perform the publick ſervice.</p>
+            <p>But you may argue, how ſhall the Magiſtrate be able to judg the power of Godlineſs? ſince he is to be kept within the Sphere of his own activity; and this ſeems to be above him: I Anſwer, he may judge by our Saviours rule, the tree by it's fruits: In which though ſometimes we may be miſtaken (as when Hypo<g ref="char:EOLhyphen"/>crites come forth in all thoſe ſeeming Acts of goodneſs) yet we muſt not expect thorns and briars out of a figtree, but corrupt water out of a polluted Fountain, for every good Tree brings forth good fruit, and every pure Fountain clear water. The Magiſtrate then judges the power of godlineſs, as the ſame ap<g ref="char:EOLhyphen"/>pears in life and converſation.</p>
+            <p>Thirdly, The Magiſtrate is to cheriſh a godly ſpirit, or a ſpirit fearing God and hating covetouſneſs; and as much to diſcountenance and rebuke, (by putting all wholeſome Laws to that end in due execution) a wretched profane ſpirit that delights in ſin, and manifeſts it ſelf in all manner of wicked<g ref="char:EOLhyphen"/>neſs; and as the firſt is to be owned (without reſpect of per<g ref="char:EOLhyphen"/>ſons) as the ſame appears in all forms or judgements, ſo the o<g ref="char:EOLhyphen"/>ther is to be puniſhed and diſowned without partiality.</p>
+            <p>Fourthly, The Magiſtrate is not to involve himſelf with any corrupt intereſts under any pretence whatſoever, whereby he inſenſibly becomes inſnared, to preſerve and keep up what God has given up to deſtruction, eſpecially when times of refor<g ref="char:EOLhyphen"/>mation are growing upon us; when God will lay open every cor<g ref="char:EOLhyphen"/>rupt Perſon, and thing, that ſet themſelves in the way againſt his deſign, to bring in new Heavens and new Earth, wherein dwells Righteouſneſs, which he has long promiſed to make good in the latter days, a <hi>Pet.</hi> 3.13.</p>
+            <p>The next thing to be conſidered is, what power either God or man hath given to the Magiſtrate, in things ſpiritual or
+<pb n="8" facs="tcp:119150:5"/>meerly relateing to conſcience; for this is moſt certain, if nei<g ref="char:EOLhyphen"/>ther have given him power, he has none but what he aſſumes of himſelf, which is a plain intruſion, and ſo the exerciſe of it muſt needs be unlawful.</p>
+            <p>But before we proceed to determine the queſtion, we muſt firſt take notice; that God has given all power in Heaven and in Earth to his Son (the Perſon of Chriſt) for none can pre<g ref="char:EOLhyphen"/>tend to any power, (whether in civils or ſpirituals) which he derives not from him; in civils we have already ſhewn that there are ſubordinate Magiſtrates ſet up in the world under Chriſt, (the great Potentate and King of Kings) to whom we are to be ſubject for conſcience ſake, being an Ordinance of God, <hi>Rom.</hi> 13.2.5. in ſpirituals is now the queſtion, what power Chriſt has derived to man, or whether he has reſerved the ſole power to himſelf in things that meerly relate to conſcience, wherein we are to ſtand and fall to our own Maſter, and not to be judged by others.</p>
+            <p>Secondly, By things meerly relating to conſcience, we muſt underſtand, thoſe inward workings in our ſpirits, that form a perſwaſion in us of what we receive to be according to the mind of God; tending either to his ſervice and worſhip, or to the encreaſe of knowledge in things of a better life, for as to matters of conſcience, order, or diſcipline in the Church, we do find a latitude left us in the Scriptures, and by the practiſe of thoſe primitive times, (it not being yet, nor like to be agreed) which form of Church-Government, is moſt according to the mind of Chriſt, and conſequently the beſt; ſome apprehending that to be Epiſcopacy, others Presbitery, others the Congre<g ref="char:EOLhyphen"/>gational way &amp;c (For it were end leſſe to enumerate all) theſe may ſuffice to let us ſee thoſe places of Scripture, and the pra<g ref="char:EOLhyphen"/>ctiſe of thoſe primitive times do admit variety of interpretati<g ref="char:EOLhyphen"/>ons. As if God (by way of condiſcention to the weakneſs of man) would leave in the Magiſtrates power, (as to a National Religion) to chuſe what form of Church Government may beſt ſuit with the civil; provided he aſſume not a power which was never given him, to impoſe the ſame upon others who diſſent from him or are of another mind.</p>
+            <p>Thirdly, As God allowes this liberty to the Magiſtrate, ſo like<g ref="char:EOLhyphen"/>wiſe he gives the ſame to private Chriſtians, (under the Magi<g ref="char:EOLhyphen"/>ſtrates protection, &amp; united together in Church fellowſhip) to
+<pb n="9" facs="tcp:119150:5"/>chuſe for themſelves, what government appears by the Scripture moſt agreeable to his will; that two diverſe Churches growing up together (under one civil Magiſtrate) may ſet up that order of diſcipline amongſt themſelves as to each appears moſt conſo<g ref="char:EOLhyphen"/>nant to the word; for the Magiſtrate in this caſe is not to in<g ref="char:EOLhyphen"/>fringe them of their liberty, but to rejoyce at the preſence of the Lord ſo accompanying them in their ſeveral apprehenſions as to ſee the power of godlineſs coming forth in its kinds and practiſe.</p>
+            <p>And that this liberty is intended by God himſelf both to the Magiſtrate and the ſeveral Churches is manifeſt by this, that all thoſe places of Scripture, that relate to Church Government ſpeak the mind of Chriſt ſo obſcurely &amp; in ſuch dark expreſſions, that to this day they that pretend to the beſt, are forced to bor<g ref="char:EOLhyphen"/>row from humane inventions, to make up a compleat form; and thoſe that ſtick cloſeſt to the Scripture, (not admitting any thing but what they bring from thence) are not able to ſatisfie others; nor ſcarce themſelves with clearneſs of Scripture ex<g ref="char:EOLhyphen"/>preſſions to prove their form <hi>Jure divino,</hi> ſo that this liberty muſt needs be allowed till Chriſt ſet up his ſpirit (in power and evidence) in the hearts of his Saints, to make up that unity of ſpirit to which all muſt yeild ſubjection.</p>
+            <p>Now to anſwer the queſtion clearly and poſitively, I affirm that Chriſt (who is the immediate and ſole Truſtee of all power from his Father) has given none to the Magiſtrate in things ſpiritual or meerly relating to conſcience, the reaſons are theſe.</p>
+            <p>Firſt becauſe the Magiſtrate is no proper Judge of the inward workings of mens ſpirits, but only God who ſearcheth and tri<g ref="char:EOLhyphen"/>eth the Reines, and therefore has no power given him in mat<g ref="char:EOLhyphen"/>ters of that nature, leaſt by miſtaking light for darkneſs, and darkneſs for light, he offend one of them little Ones that are precious in the ſight of God.</p>
+            <p>Secondly, becauſe we are to ſtand and fall to our own Maſter who is God, having power to deſtroy both ſoul and body; but the Magiſtrate has onely power over the body and what relates to the outward man.</p>
+            <p>Thirdly, Becauſe the Magiſtrate (whoſe Office and charge chiefly relates to civil things) may eaſily judge truth for errour, and errour for truth, as did <hi>Pontius Pilate</hi> and the ruling Elders
+<pb n="10" facs="tcp:119150:6"/>amongſt the <hi>Jewes</hi> when they delivered up Chriſt to be cruci<g ref="char:EOLhyphen"/>fied for the greateſt Malefactor, who was the moſt innocent Perſon.</p>
+            <p>Neither has man given to the Magiſtrate any ſuch power over the conſciences of their brethren; becauſe the Magiſtrate can pretend to no power but what is derived to him, from the people or Governed. (for they are the Original of all juſt power) but the people have no ſuch power in themſelves, and therfore can by no means give the ſame to others; For the people till by conſent and compact they were gathered together, were a con<g ref="char:EOLhyphen"/>fuſed diſtracted multitude, every one his own Lord and Maſter, each doing what was good in his own eyes, and when after<g ref="char:EOLhyphen"/>wards by agreement they were brought into order to be gover<g ref="char:EOLhyphen"/>ned by Laws, and the rules of juſtice; that only related to the outward man.</p>
+            <p>As for the inward, it rationally cannot be ſuppoſed, they would give that away which is not in the power of any one, over his fellow creature, eſpecially that being one of the prero<g ref="char:EOLhyphen"/>gatives of the Creator, to know and judge the inward man, which belongs not to the creature; therefore the Magiſtrate can pretend to no ſuch power from the people, and conſequently if he exerciſes the ſame, it is uſurped unjuſt and unlawful; uſurped becauſe he has it not from the people or Governed, unjuſt, becauſe by it he does a plain injury to his fellow crea<g ref="char:EOLhyphen"/>tures over whom he has no ſuch power, and unlawful, becauſe it entrenches upon the prerogative of God himſelf, who re<g ref="char:EOLhyphen"/>ſeves the power over the inward man, or perſwaſions of mens conſciences and gives it not to another.</p>
+            <p>From hence we may conclude, what a groundleſs foundation they build upon that are ſo much for an exerciſe of civil power in matters of religious concernment, ſince the Magiſtrate can lay no claim to any ſuch power, either from God or Man; The one reſerving that prerogative to himſelf, the other not being able to give what he never received. And yet this principle is exceedingly cried up by ſome, under the plauſible names of advancing Religion, and keeping hereſies and errors out of the Church; as if true religion had need of ſuch broken props, whoſe foundation ſtands in ſo manifeſt untruth. As for hereſies and errours, does not the Apoſtle expreſly tell us, There muſt alſo be hereſies amonſt you, that they that are approved may be
+<pb n="11" facs="tcp:119150:6"/>made manifeſt? And can there be a more clear convincing way of confuting them, then by ſuffering truth (by its own power and evidence) to gain ground by degrees upon the un<g ref="char:EOLhyphen"/>derſtandings and conſciences of Mens which will be ſure to make way for it ſelf (maugre all oppoſition) to the leading at laſt in triumph all falſe diſguiſes and miſts of darkneſs, which may for a time poſſeſs the mind of frail creatures, eſpecially ſince truth (in the midſt of all contradiction) can be in no dan<g ref="char:EOLhyphen"/>ger of miſcarriage, being ſeated upon a rock) over which the ſtrength of hell can have no prevailing.</p>
+            <p>Beſides all this, there ariſes naturally from this principle, the moſt unchriſtian, if not inhumane perſecution, for differing perſwaſions in matters of religion, when the Magiſtrate ſhall take upon him to judge, and eſtabliſh his judgement by ſaw, to the oppreſſing all others that diſſent from him; nay, may he not proceed to the taking away eſtate and life it ſelf, if they will not comply with his Religion: As ſome doe that termi<g ref="char:EOLhyphen"/>nate in a perfect inquiſition, others more moderate doe ſuffer ſuch as diſſent; but all the diſcountenance that can be poſſi<g ref="char:EOLhyphen"/>ble, is caſt upon them.</p>
+            <p>But doubtleſs, the growing light of theſe times, will more and more open our eyes to diſcover this great myſtery of iniquity, which by the Divels artifice, hath been ſet on foot, by working upon the blind zeal of ſome, and by intereſt blinding others, that to this day, this perſecuting ſpirit is kept alive under pre<g ref="char:EOLhyphen"/>tence of proferving truth, when thereby truth it ſelf may be trampled under foot, and falſhood eſtabliſhed by Law.</p>
+            <p>By all which appears the neceſſity of owning (in well regula<g ref="char:EOLhyphen"/>ted Governments) that truly ſober Principle, <hi>of liberty of con<g ref="char:EOLhyphen"/>ſcience,</hi> ſo much exploded and endeavoured to be cried down by men of corrupt intereſts, time-ſervers, who have gain and worldly advantage more in their eyes, then the glory of God; for by this Principle only is meant, a Chriſtian forbea<g ref="char:EOLhyphen"/>ring and tenderneſs one to another in matters of religion, till God even reveal that unto us; not in the leaſt to give liberty to the fleſh, or any licentious practice, which firſt is rational in it ſelf; for how can we expect others to be of our minds, till by conviction and letting down light into their underſtandings, they may be awakened to receive what with God's bleſſing may be offered: Beſides God gives differing meaſures of light
+<pb n="12" facs="tcp:119150:7"/>and knowledge on purpoſe, that we may learn condiſcention, and not to impoſe upon our Brethren, but wait God's time of diſcovering to others what is already made known to us; for what reaſon have we to be offended at anothers ignorance, be<g ref="char:EOLhyphen"/>cauſe he knows not ſo much as our ſelf? as if we ſhould qua<g ref="char:EOLhyphen"/>rel with all thoſe that bear not our reſemblance, or fimilitude.</p>
+            <p>And laſtly, The very light of nature teaches us not to do that to another which we are not willing another ſhould do to us in the like caſe; Neither will the Magiſtrate be hereby obli<g ref="char:EOLhyphen"/>ged to allow liberty of thoſe religions, that either are contrary to Chriſtianity or whoſe intereſt is ſo involved with forraign States, and Princes that they have a greater dependance upon them, then their own Magiſtrates.</p>
+            <p>Becauſe the firſt deſtroies the very being of Chriſtianity, the latter admits thoſe within our bowels, that upon all occaſions may be ready to ſhake off obedience from their Governors and entice others to do the ſame; nevertheleſs according to liberty of conſcience, none is to be perſecuted for conſcience ſake, but laws being provided by the Magiſtrates againſt ſuch inconveni<g ref="char:EOLhyphen"/>ences, tis at their own perils if they tranſgreſs them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
